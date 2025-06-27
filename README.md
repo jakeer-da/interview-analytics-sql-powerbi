@@ -68,7 +68,6 @@ It helps recruitment teams and business leaders gain insights into interview tre
 | **By Month**        | Monthly drops from April to October |
 | **By Day**          | Daily fluctuations in interviews and payouts |
 
----
 
 ### 📌 Final Status Breakdown (Top 5)
 
@@ -93,6 +92,10 @@ It helps recruitment teams and business leaders gain insights into interview tre
 - Panel payout by customer and role
 - Final status breakdowns
 - Top/Bottom N filters using `DENSE_RANK()`
+  
+🔗 Project Link
+
+https://github.com/jakeer-da/interview-analytics-sql-powerbi
 
 ### 🙋‍♂️ About Me
 
