@@ -94,6 +94,26 @@ It helps recruitment teams and business leaders gain insights into interview tre
 - Final status breakdowns
 - Top/Bottom N filters using `DENSE_RANK()`
 
+### 🙋‍♂️ About Me
+
+**Syed Jakeeer Hussin** 
+
+🎯 **Junior Data Analyst** with hands-on experience in building interactive dashboards, uncovering trends, and delivering data-driven insights.
+
+📊 Skilled in SQL, Power BI, Python(Basics), and Excel for end-to-end analytics solutions.
+
+### 💼 Core Competencies
+
+| Skill Area             | Tools & Technologies                                       |
+|------------------------|------------------------------------------------------------|
+| **Data Visualization** | Power BI, Excel Charts & Graphs                   |
+| **Data Analytics**     | SQL, Excel (Pivot Tables, VLOOKUP, Data Cleaning)          |
+| **Programming**        | Python (Pandas, Matplotlib, Seaborn)                |
+| **Database**           | MySQL                                       |
+| **DAX & Measures**     | KPIs, Ratios, Time Intelligence, Growth Metrics            |
+| **Dashboard Design**   | Interactive layouts, slicers, filters, drill-through views |
+| **Tools & Platforms**  | Jupyter Notebook, Google Colab, GitHub, Excel, Power BI Service 
+
 ### 📬 Author
 
 **Syed Jakeer Hussin**  
