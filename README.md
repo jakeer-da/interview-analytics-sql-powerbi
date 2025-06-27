@@ -98,7 +98,8 @@ It helps recruitment teams and business leaders gain insights into interview tre
 
 **Syed Jakeeer Hussin** 
 
-🎯 **Junior Data Analyst** with hands-on experience in building interactive dashboards, uncovering trends, and delivering data-driven insights.
+🎯 **Junior Data Analyst** with hands-on experience in building interactive dashboards, uncovering trends, and delivering data-
+      driven insights.
 
 📊 Skilled in SQL, Power BI, Python(Basics), and Excel for end-to-end analytics solutions.
 
