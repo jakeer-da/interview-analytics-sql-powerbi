@@ -23,12 +23,18 @@ It helps recruitment teams and business leaders gain insights into interview tre
 ### 📊 Dashboard Preview
 
 #### 🔹 Overview Page
-![Dashboard Overview](assets/dashboard-overview.png)
+![Main Dashboard ](Interview_Analytics-1.PNG)
 
 ---
 
 #### 🔹 Final Status & Role-wise Payout
-![Final Status & Role Payout](assets/final-status.png)
+![Final Status & Role Payout](Interview_Analytics-5.PNG)
+
+### 🔹 Monthly Interview & Payout Trends
+
+### 🔹 Daily Interview & Payout Trends
+
+### 🔹 Quarterly Trends
 
 ### 🧮 **Main Metrics**
 - **Total Customers**: 21
@@ -38,8 +44,6 @@ It helps recruitment teams and business leaders gain insights into interview tre
 - **Total Payout**: ₹10.20M
 - **Avg Payout per Panel**: ₹248.68K
 - **Avg Payout per Interview**: ₹784.16
-
-![Main Dashboard](assets/dashboard_screenshots.png)
 
 ### 📈 **Key Visuals & KPIs**
 
