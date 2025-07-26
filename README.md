@@ -101,8 +101,7 @@ https://github.com/jakeer-da/interview-analytics-sql-powerbi
 
 **Syed Jakeeer Hussin** 
 
-🎯 **Junior Data Analyst** with hands-on experience in building interactive dashboards, uncovering trends, and delivering data-
-      driven insights.
+🎯 Data Analyst | 2.10 Years in Analytics | Excel • Power BI • MySQL • Python (Pandas, Matplotlib)
 
 📊 Skilled in SQL, Power BI, Python(Basics), and Excel for end-to-end analytics solutions.
 
